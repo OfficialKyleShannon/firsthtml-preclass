@@ -1,0 +1,48 @@
+<h1> Kyle Shannon </h1>
+  <h2> Aspiring Software Engineer </h2>
+    <div id="intro">  
+      <h3> A little about me! </h3>
+       <ul>
+        <li> Born and raised in the Sunshine 🌞 state (Orlando, FL) </li>
+        <li> Passionate about technology 🎮 and building (avid eSports gamer - who remembers K'NEX?) </li>
+        <li> U.S. Army Veteran (served 8 years of Active Duty service) </li>
+        <li> Father to 4 👨‍👩‍👧‍👦 (2 kids and 2 pets - they count, right?) </li>
+        <li> I carry a smile on my face practically 24/7 (life is too short) </li>
+        <li> Always here to help someone (personally or professionally) </li>
+        <li> Outside of work, I love the outdoors (especially fishing! 🎣) </li>
+       </ul>
+       </div>
+        <div id="experience">
+          <h3> Professional Experience </h3>
+            <h4> Account Manager | Service 2 Software | 06-2019 to Present </h4>
+              <ul>
+                <li> Generated over $250K in new business within first 90 days of hire by expanding 6 initial partnerships </li>
+                <li> Navigated 22 partnerships through legal and procurement teams that finalized $35K-$80K agreements </li>
+                <li> Managed 1000+ accounts leveraging Salesforce and tracked 50+ daily activities utilizing Salesloft </li>
+                <li> Achieved 100% quota by forging 23 partnerships during Q3 2020 with mid-market to enterprise accounts </li>
+               </ul>
+              <h4> Senior Sales Development Rep | Resupply | 01-2019 to 06/2019 </h4>
+             <ul>
+            <li> Exceeded 60 daily cold calls that achieved 12 weekly qualified meetings with C-level executives </li>
+            <li> Outperformed 5 team members by acheiving 100% quota during Q1 and reached Senior SDR in Q2 2019 </li>
+            <li> Secured $150K in ARR by delivering 100+ sales qualified opportunities during Q1 and Q2 2019 </li>
+            <li> Pioneered a lead generation process that reduced bad data in Salesforce by 50% </li>
+             </ul>
+            <h4> Strategic Advisor | U.S. Army | 11/2010 to 01/2019 </h4>
+           <ul>
+          <li> Expanded partnerships by 70% through leveraging a consultative approach to solving customer challenges </li>
+          <li> Amplified organizational capabilities by 30% by leading a $1.3M engineer project for executive relationships </li>
+          <li> Identified as #1 of 6 managers and lauded as #1 team within entire organization consisting of 15 teams </li>
+          <li> Accelerated operational capacity by 30% through enhancing 10+ customer relations in foreign territory </li>
+           </ul>
+          </div>
+         <div id="Skills">
+        <h3> Current Full Stack Developer Skills </h3>
+       <ul>
+      <li> HTML </li>
+     <!-- More skills to follow :) -->
+    </ul>
+    </div>
+   <div id="social media">
+  <h3> Social Media </h3>
+ <a href="https://www.linkedin.com/in/k-shannon/">Connect with Kyle</a>
